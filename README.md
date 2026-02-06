@@ -1,9 +1,5 @@
-# IGPC Vendors List
+## Vendors List
 
-1. Vendor A
-2. Vendor B
-3. Vendor C
-4. Vendor D
-5. Vendor E
+- AltF4Gear  
+  Website: [https://altf4gear.com/](https://altf4gear.com/)  
 
-... (other vendors)
