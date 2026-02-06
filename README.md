@@ -18,7 +18,6 @@ A curated list of vendors for gaming peripherals, mechanical keyboards, and cust
 | **Curiosity Caps** | [curiositycaps.in](https://curiositycaps.in/) | - |
 | **CtrlShiftStore** | [ctrlshiftstore.com](https://ctrlshiftstore.com/) | [Ctrlshiftstore Discord](https://discord.gg/example) |
 | **KeebsMod** | [keebsmod.com](https://www.keebsmod.com/) | - |
-| **Keyfinity** | ~~[keyfinity.in](https://www.keyfinity.in/)~~ *(Unavailable)* | [Keyfinity Discord](https://discord.gg/example) |
 | **NMPC** | [nmpc.in](https://nmpc.in/) | [NMPC Discord](https://discord.gg/example) |
 | **HardwareNest** | [hardwarenest.in](https://hardwarenest.in/) | - |
 | **RyuGear** | [ryugear.in](https://ryugear.in/) | - |
