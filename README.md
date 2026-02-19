@@ -9,7 +9,6 @@ A curated list of vendors for gaming peripherals, mechanical keyboards, and cust
 | **Waimers** | [waimers.in](https://waimers.in/) |
 | **Keychron India** | [keychron.in](https://keychron.in/) |
 | **GenesisPC** | [genesispc.in](https://www.genesispc.in/) |
-| **Meckeys** | [meckeys.com](https://www.meckeys.com/) |
 | **Loadout** | [loadout.co.in](https://www.loadout.co.in/) |
 | **ClawGears** | [clawgears.in](https://clawgears.in/) |
 | **StacksKB** | [stackskb.com](https://stackskb.com/) |
